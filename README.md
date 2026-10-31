@@ -23,7 +23,6 @@ A lightweight, high-performance real-time web application featuring live server 
 - **System Metrics**: `psutil`
 - **Database**: SQLite (managed with custom context managers)
 - **Containerization**: Docker, Docker Compose
-- 
 
 ## 📦 Project Structure
 
